@@ -1,2 +1,4 @@
 I'm from amazon linux
 testing git pull --rebase
+testing git pull rebase
+git pull --rebase
